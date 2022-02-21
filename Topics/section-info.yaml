@@ -1,0 +1,22 @@
+content:
+- Reading files
+- Identity testing
+- Objects in Python
+- Default arguments
+- Lambda functions
+- Iterators
+- Args
+- Kwargs
+- Sorting a list
+- Experiments with Python shell
+- Copy of an object
+- Docstrings
+- Function annotations
+- Unit testing in Python
+- Regexps in Python
+- Escaping in regexps
+- Regexp sets and ranges
+- Shorthands
+- Regexp quantifiers
+- Custom generators
+- ast module

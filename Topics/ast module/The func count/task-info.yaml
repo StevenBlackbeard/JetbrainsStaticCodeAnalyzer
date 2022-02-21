@@ -1,0 +1,16 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    import ast
+
+    # put your code here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15496#comment
+status: Failed
+feedback:
+  message: |
+    Failed. Wrong answer
+  time: Sat, 19 Feb 2022 13:43:05 UTC
+record: -1

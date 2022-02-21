@@ -1,0 +1,23 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    import re
+
+
+    regex = ''
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10148#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 13. Runtime error
+
+    Error:
+      File "jailed_code", line 5
+        regex = r'[\w~-]''
+                         ^
+    SyntaxError: EOL while scanning string literal
+  time: Thu, 17 Feb 2022 18:01:40 UTC
+record: -1

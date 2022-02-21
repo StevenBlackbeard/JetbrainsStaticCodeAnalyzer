@@ -1,0 +1,17 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    import copy
+
+
+    def solve(obj):
+        pass
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9276#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 16 Feb 2022 21:42:13 UTC
+record: -1
