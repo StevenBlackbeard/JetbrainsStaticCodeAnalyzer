@@ -1,11 +1,11 @@
 type: choice
 is_multiple_choice: false
 options:
-- text: They are very slow.
 - text: They postpone computation and produce values one by one, only when explicitly
     asked to do so.
-- text: They are not the best way to write code and are used only by lazy pogrammers.
 - text: They can be defined in a very lazy way, just with a single line of code.
+- text: They are not the best way to write code and are used only by lazy pogrammers.
+- text: They are very slow.
 message_correct: Congratulations!
 message_incorrect: Incorrect solution
 files:

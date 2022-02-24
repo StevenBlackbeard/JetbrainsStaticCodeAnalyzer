@@ -20,3 +20,10 @@ content:
 - Regexp quantifiers
 - Custom generators
 - ast module
+- Intro to NumPy
+- Data types in NumPy
+- Array creation and indexing
+- Operations with an array
+- SciPy overview
+- Operations with several arrays
+- Boolean operations on arrays

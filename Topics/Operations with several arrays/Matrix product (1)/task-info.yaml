@@ -1,0 +1,13 @@
+type: code
+custom_name: Matrix product
+files:
+- name: main.py
+  visible: true
+  text: import numpy as np
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10793#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 24 Feb 2022 21:17:54 UTC
+record: -1
